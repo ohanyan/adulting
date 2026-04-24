@@ -1,0 +1,26 @@
+{
+  "name": "adulting",
+  "version": "0.1.0",
+  "description": "A Claude Code plugin for grown-ups who want to show up well. Skills for self-management, household ops, health, money, and the relationships that actually matter.",
+  "author": {
+    "name": "Nerses Ohanyan",
+    "url": "https://github.com/ohanyan"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ohanyan/adulting",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ohanyan/adulting"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-code-plugin",
+    "productivity",
+    "self-management",
+    "relationships",
+    "parenting",
+    "habits",
+    "stoicism",
+    "gtd"
+  ]
+}

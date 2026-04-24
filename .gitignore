@@ -1,0 +1,21 @@
+# Personal data written by skills stays local
+data/journal/
+data/people.md
+data/habits.md
+data/home-inventory.md
+data/decisions.md
+data/relationships.md
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (in case anyone adds scripts later)
+node_modules/
